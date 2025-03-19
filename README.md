@@ -3,17 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            text-align: center;
-            padding: 20px;
-        }
-        h1 {
-            color: #3498db;
-        }
-        </style>
+    
 </head>
 <body>
     <h1>Bus Adda 🚏</h1>
@@ -30,3 +20,14 @@
 🛠️ Customizable styles.
 </body>
 </html>
+<!-- <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: #3498db;
+        }
+        </style> -->
