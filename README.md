@@ -27,7 +27,13 @@
 </ol>
 
 <h3>Add last updated on 19/03.</h3>
-
+<h3>Credits</h3>
+Thanks to the following contributors:
+- [Prabhleen Kaur](https://github.com/prbhleeen)
+- [Shagun Attri](https://github.com/shagunattri06)
+- [Shipra ](https://github.com/Shipra-20)
+- [Sunaina Sharma](https://github.com/Sunaina-04)
+- [Shreya Sharma](https://github.com/shreya616sharma)
 </body>
 </html>
 <!-- <style>
