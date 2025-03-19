@@ -21,7 +21,7 @@
 
 <h2>To use the site/app, follow these steps</h2> 
 <ol>
-<li>Enter your offical id to the login page.HTML</li>
+<li>Enter your offical id to the login page.</li>
 <li>Select if using for arrival or departure.</li>
 <li>Simply click on the checkbox to mark the time of arrival/departure. </li>
 </ol>
