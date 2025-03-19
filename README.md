@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en">/
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,6 +25,9 @@
 <li>Select if using for arrival or departure.</li>
 <li>Simply click on the checkbox to mark the time of arrival/departure. </li>
 </ol>
+
+<h2>Add last updated on 19/03.</h2>
+
 </body>
 </html>
 <!-- <style>
