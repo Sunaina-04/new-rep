@@ -26,7 +26,7 @@
 <li>Simply click on the checkbox to mark the time of arrival/departure. </li>
 </ol>
 
-<h2>Add last updated on 19/03.</h2>
+<h3>Add last updated on 19/03.</h3>
 
 </body>
 </html>
